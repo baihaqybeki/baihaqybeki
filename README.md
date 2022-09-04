@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baihaqy
 - 👀 I’m interested in Quality Assurance, Machine Learning, and Design
-- 🌱 I’m currently learning Automation Testing dan Data Science
+- 🌱 I’m currently learning Automation Testing dan Machine Learning
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me : muhammadbaihaqy98@gmail.com
 
